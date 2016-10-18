@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AV0201b</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_em_cartaz">Em Cartaz</string>
+    <string name="title_populares">Populares</string>
+    <string name="title_ultimos">Últimos</string>
+    <string name="title_top">Top</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+</resources>
